@@ -22,6 +22,7 @@ class _PlanCreatorScreenState extends State<PlanCreatorScreen> {
         title: const Text(
           'Master Plans [Ella]',
           style: TextStyle(fontWeight: FontWeight.bold),
+          
         ),
       ),
       body: Container(
